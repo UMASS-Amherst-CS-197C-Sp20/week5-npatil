@@ -7,4 +7,4 @@ struct dog {
   char * name;
 };
 
-char intToChar(int aInt);
+char intToChar(int Int);
